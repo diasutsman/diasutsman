@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DUCPP-MAX
+- 👋 Hi, I’m Dias Utsman
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning android
 - 💞️ I’m looking to collaborate on android app
